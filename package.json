@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "vite --mode development",
     "build:beta": "vite build --mode beta",
-    "build:release": "vite build --mode release",
+    "build": "vite build --mode release",
     "serve": "vite preview"
   },
   "dependencies": {
